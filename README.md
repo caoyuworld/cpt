@@ -1,30 +1,58 @@
 # Combinatory Process Theory (CPT)
 
-**Version 1.0 | April 2025**
+**Version 1.0 | April 2025**  
+**SSRN Preprint ID: [5224136](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5224136)**
 
-This repository contains the official release of *Combinatory Process Theory: A Structural Model of World Generation*, authored by Yu Cao.
+> *Combinatory Process Theory* (CPT) is an original theory of world modeling that redefines the world not as a static system of entities, but as a structurally recursive, combinatorially generated process. This repository contains the officially released v1.0 of CPT, marking the P0 phase of the theory's development roadmap.
 
-CPT is a generative, recursive, and structurally grounded world modeling framework. It redefines the world not as a static entity system, but as a process composed through five axioms:
-- **Combinability**
-- **Hierarchical Generation**
-- **Recursive Participation**
-- **Structural Coherence**
-- **Emergence**
+📄 **[Download PDF on SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5224136)**  
+📎 Or [Download PDF directly](./Combinatory_Process_Theory_v1.0.pdf)
 
-The current release (v1.0) marks the **P0 Stage**, focusing on theoretical foundations and transdisciplinary applications across AI, ethics, and systems design.
+---
 
-📄 **[Read the full paper](./Combinatory_Process_Theory_v1.0.pdf)**  
-📍 Status: Submitted to arXiv (pending endorsement)  
-🌐 Website: [Coming soon via GitHub Pages]
+## 🔷 What is CPT?
+
+CPT introduces a generative, structural foundation for understanding how the world, consciousness, and ethics arise. It is based on five foundational axioms:
+
+1. **Combinability** – The universe is built through combinatory units, not fixed entities.  
+2. **Hierarchical Generation** – All systems emerge in layers, recursively nested.  
+3. **Recursive Participation** – Components participate in generating new structures.  
+4. **Structural Coherence** – Stability is defined by internal consistency across levels.  
+5. **Emergent Generation** – Novelty arises through structural recursion, not randomness.
 
 ---
 
 ## 📌 CPT Roadmap
 
-| Stage | Focus |
-|-------|-------|
-| **P0** | World modeling and axioms *(this paper)* |
-| **P1** | Structural consciousness modeling |
-| **P2** | AI ethics and Ethic-Born Intelligence |
-| **P3** | Philosophical methodology transformation |
-| **P4** | Applied design: governance, education,
+| Stage | Description |
+|-------|-------------|
+| **P0** | Foundational axioms & world modeling *(v1.0 release)* |
+| **P1** | Structural Consciousness Model |
+| **P2** | Ethics Engine (Ethic-Born Intelligence) |
+| **P3** | Epistemological System & Methodology |
+| **P4** | Applied Systems (Governance, Education, AI, Society) |
+
+---
+
+## 💬 Contact
+
+**Yu Cao (George Cao)**  
+Independent Researcher, Australia  
+📧 Email: [caoyuworld@gmail.com](mailto:caoyuworld@gmail.com)  
+🌐 Website: *coming soon*
+
+---
+
+## 📜 License
+
+This paper is publicly available on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5224136).  
+Please cite using the DOI (available after SSRN approval).
+
+---
+
+## 🧠 Quote
+
+> “The world is not what it is — it is what it becomes through process.”
+
+---
+
